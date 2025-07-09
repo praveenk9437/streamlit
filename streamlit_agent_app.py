@@ -134,8 +134,8 @@ def main():
     agent = get_agent()
     
     # App header
-    st.title("🤖 AI Agent Dashboard")
-    st.markdown("**Your AI Assistant deployed on Streamlit Community Cloud**")
+    st.title("🤖 PraveenK9437 AI Agent Dashboard")
+    st.markdown("**AI Assistant deployed on Streamlit Community Cloud**")
     
     # Sidebar for agent info
     with st.sidebar:
